@@ -206,3 +206,4 @@ Werkzeug==2.3.4
 whitenoise==6.7.0
 wrapt==1.14.1
 zipp==3.16.2
+tkinter==8.6

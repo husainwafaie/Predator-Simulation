@@ -54,3 +54,4 @@ def repeater(root):
     model.update_all()
     model.display_all()
     root.after(100,repeater,root)
+

@@ -1,10 +1,6 @@
- name: Python Script
-
-  
+name: Python Script
 
 on: [push]
-
-  
 
 jobs:
 
